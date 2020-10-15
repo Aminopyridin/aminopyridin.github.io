@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aminopyrodin&#39;s blog</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on Aminopyrodin&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Thu, 15 Oct 2020 22:30:31 +0500</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Сишарперы vs JavaScript</title>
+      <link>https://examplesite.com/posts/csharpers-vs-js/</link>
+      <pubDate>Thu, 15 Oct 2020 22:30:31 +0500</pubDate>
+      
+      <guid>https://examplesite.com/posts/csharpers-vs-js/</guid>
+      <description>Люблю преподавать Реакт сишарперам. Они с одной стороны чувствуют себя знающими JS. С другой стороны приходит реальность)
+ — У меня тут линтер что-то на тип данных ругается!
+— Да, у тебя в этом месте в компонент строка приходит, в этом число. Выбери что-то одно и приведи везде к одному типу. Знаешь как это сделать?
+— Подожди&amp;hellip; В JS нет типов! Как тогда каст типов работать может, если типов нет?!</description>
+    </item>
+    
+    <item>
+      <title>О пользе комментариев</title>
+      <link>https://examplesite.com/posts/mr-crash-course/</link>
+      <pubDate>Thu, 15 Oct 2020 01:24:33 +0500</pubDate>
+      
+      <guid>https://examplesite.com/posts/mr-crash-course/</guid>
+      <description>Сегодня был крэш-курс молодых менеджеров разработки. Рассказывали МРам как общаться с разработчиками.
+Обсуждаем вопрос о том, как сократить время, которое тратится на чтение чужого кода и рефакторинг. Группа приходит к мысли, что если не писать код, который сразу становится легаси, то проблем будет меньше.
+ Какие техники помогают писать более качественный код?
+ Группа вспоминает про код-ревью, дизайн-ревью, тесты&amp;hellip; Тут кто-то говорит «комментарии в коде еще можно писать!», группа довольно соглашается — звучит разумно.</description>
+    </item>
+    
+  </channel>
+</rss>
