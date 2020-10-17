@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aminopyrodin&#39;s blog</title>
-    <link>https://aminopyridin.github.io/</link>
+    <link>http://aminopyrodin.me/</link>
     <description>Recent content on Aminopyrodin&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 16 Oct 2020 21:00:41 +0500</lastBuildDate><atom:link href="https://aminopyridin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2020 21:00:41 +0500</lastBuildDate><atom:link href="http://aminopyrodin.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Масочный</title>
-      <link>https://aminopyridin.github.io/posts/masks/</link>
+      <link>http://aminopyrodin.me/posts/masks/</link>
       <pubDate>Fri, 16 Oct 2020 21:00:41 +0500</pubDate>
       
-      <guid>https://aminopyridin.github.io/posts/masks/</guid>
+      <guid>http://aminopyrodin.me/posts/masks/</guid>
       <description>Я самый законопослушный человек ever. Я всеми силами соблюдаю закон, не перехожу дороги в неположенных местах, готова соблюдать любую фигню, которая написана в законе, потому что это закон. Так было до сентября.
 Когда в марте начались карантины, я сразу начала работать из дома. Я полгода не выходила на улицу, потому что карантин. Я перестала пить таблетки, которые до этого пила каждый день в течение 5 лет, потому что ходить в аптеку без маски нельзя, а у меня нет маски.</description>
     </item>
     
     <item>
       <title>Сишарперы vs JavaScript</title>
-      <link>https://aminopyridin.github.io/posts/csharpers-vs-js/</link>
+      <link>http://aminopyrodin.me/posts/csharpers-vs-js/</link>
       <pubDate>Thu, 15 Oct 2020 22:30:31 +0500</pubDate>
       
-      <guid>https://aminopyridin.github.io/posts/csharpers-vs-js/</guid>
+      <guid>http://aminopyrodin.me/posts/csharpers-vs-js/</guid>
       <description>Люблю преподавать Реакт сишарперам. Они с одной стороны чувствуют себя знающими JS. С другой стороны приходит реальность)
  — У меня тут линтер что-то на тип данных ругается!
 — Да, у тебя в этом месте в компонент строка приходит, в этом число. Выбери что-то одно и приведи везде к одному типу. Знаешь как это сделать?
@@ -31,10 +31,10 @@
     
     <item>
       <title>О пользе комментариев</title>
-      <link>https://aminopyridin.github.io/posts/mr-crash-course/</link>
+      <link>http://aminopyrodin.me/posts/mr-crash-course/</link>
       <pubDate>Thu, 15 Oct 2020 01:24:33 +0500</pubDate>
       
-      <guid>https://aminopyridin.github.io/posts/mr-crash-course/</guid>
+      <guid>http://aminopyrodin.me/posts/mr-crash-course/</guid>
       <description>Сегодня был крэш-курс молодых менеджеров разработки. Рассказывали МРам как общаться с разработчиками.
 Обсуждаем вопрос о том, как сократить время, которое тратится на чтение чужого кода и рефакторинг. Группа приходит к мысли, что если не писать код, который сразу становится легаси, то проблем будет меньше.
  Какие техники помогают писать более качественный код?
