@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://aminopyrodin.me/</loc>
+    <loc>/</loc>
     <lastmod>2020-10-16T21:00:41+05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aminopyrodin.me/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-10-16T21:00:41+05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aminopyrodin.me/posts/masks/</loc>
+    <loc>/posts/masks/</loc>
     <lastmod>2020-10-16T21:00:41+05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aminopyrodin.me/posts/csharpers-vs-js/</loc>
+    <loc>/posts/csharpers-vs-js/</loc>
     <lastmod>2020-10-15T22:30:31+05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aminopyrodin.me/posts/mr-crash-course/</loc>
+    <loc>/posts/mr-crash-course/</loc>
     <lastmod>2020-10-15T01:24:33+05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aminopyrodin.me/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://aminopyrodin.me/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
